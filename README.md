@@ -1,3 +1,8 @@
+<p align="left">
+  <p align="center"> 
+    <img width="300" src="asset-created-img/MANUTENÇÃO1.png">
+</p>
+
 Projeto Ebook: Manutenção de smartphones (Gerado por IA)
 -
 Projeto realizado na DIO, para desenvolvimento de habilidades. 
