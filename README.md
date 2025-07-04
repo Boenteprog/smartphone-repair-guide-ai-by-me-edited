@@ -1,5 +1,3 @@
-
-
 Projeto Ebook: Manutenção de smartphones (Gerado por IA)
 -
 Projeto realizado na DIO, para desenvolvimento de habilidades. 
