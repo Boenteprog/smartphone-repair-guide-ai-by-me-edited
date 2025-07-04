@@ -8,6 +8,8 @@ Projeto Ebook: Manutenção de smartphones (Gerado por IA)
 Projeto realizado na DIO, para desenvolvimento de habilidades. 
 Guia apresenta soft-skills para se iniciar a carreira como técnico de smartphones. 
 
+Acesse o ebook [Manutenção Sem Enrolação](https://github.com/Boenteprog/smartphone-repair-guide-ai-by-me-edited/blob/main/fold-ebook/bz-ebook.pdf)
+
 Técnologias que utilizei: 
 -
 [ChatGPT](https://chatgpt.com/?model=auto) 
